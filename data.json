@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/mp223/mp223-06-200x200.webp",
+      "productName": "'MSI PRO MP223 21.45' Full HD Business Monitor",
+      "category": "Monitor",
+      "price": "9,800৳",
+      "status": "In Stock",
+      "rating": "4"
+      
+    },
+    {
+      "id": 2,
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/pro-mp241x/pro-mp241x-0001-200x200.png",
+      "productName": "'MSI PRO MP241X 23.8' 75Hz FHD Monitor",
+      "category": "Monitor",
+      "price": "15,200৳",
+      "status": "In Stock",
+      "rating": "4"
+      
+    },
+    {
+      "id": 3,
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/pro-mp242c/pro-mp242c-01-500x500.webp",
+      "productName": "'MSI PRO MP242C 23.6' FHD Curved Monitor with Built-in Speakers",
+      "category": "Monitor",
+      "price": "16,399৳",
+      "status": "In Stock",
+      "rating": "4.5"
+      
+    },
+    {
+      "id": 4,
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-13600k/Core%20i5%2013600K-01-228x228.webp",
+      "productName": "Intel 13th Gen Core i5 13600K Raptor Lake Processor",
+      "category": "Processor",
+      "price": "36,000৳",
+      "status": "In Stock",
+      "rating": "4.5"
+      
+    },
+    {
+      "id": 5,
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/pentium-gold-g6405/pentium-gold-g6405-01-228x228.webp",
+      "productName": "Intel Pentium Gold G6405 Coffee Lake Processor",
+      "category": "Processor",
+      "price": "7,000৳",
+      "status": "In Stock",
+      "rating": "4.6"
+      
+    },
+    {
+      "id": 6,
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i3-10100/i3-10100-228x228.jpg",
+      "productName": "Intel 10th Gen Core i3 10100F Processor",
+      "category": "Processor",
+      "price": "8,200৳",
+      "status": "In Stock",
+      "rating": "4.7"
+      
+    },
+    {
+      "id": 7,
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/b550m-k/b550m-k-01-228x228.webp",
+      "productName": "Gigabyte B550M K AMD AM4 Micro ATX Motherboard",
+      "category": "MotherBoard",
+      "price": "11,500৳",
+      "status": "In Stock",
+      "rating": "4.6"
+      
+    },
+    {
+      "id": 8,
+      "image": "https://www.startech.com.bd/image/cache/catalog/Motherboard/Gigabyte/GIGABYTE%20GA-J1800M-D3P/GIGABYTE%20GA-J1800M-D3P-1-228x228.jpg",
+      "productName": "GIGABYTE GA-J1800M-D3P Motherboard with Built In 2.41Ghz DDR3 Celeron Processor",
+      "category": "MotherBoard",
+      "price": "6,500৳",
+      "status": "In Stock",
+      "rating": "4.4"
+      
+    },
+    {
+      "id": 9,
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/biostar/h510mhp/h510mhp-01-228x228.webp",
+      "productName": "BIOSTAR H510MHP 10th and 11th Gen Micro ATX Motherboard",
+      "category": "MotherBoard",
+      "price": "7,300৳",
+      "status": "In Stock",
+      "rating": "4.7"
+      
+    },
+    {
+      "id": 10,
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/jetram-4gb/jetram-4gb-01-228x228.webp",
+      "productName": "Transcend JetRam 4GB DDR4 3200MHz U-DIMM Desktop RAM",
+      "category": "RAM",
+      "price": "1,450৳",
+      "status": "In Stock",
+      "rating": "4.7"
+      
+    },
+    {
+      "id": 11,
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/netac/basic-4gb-ddr4-2666mhz/basic-4gb-ddr4-2666mhz-01-228x228.webp",
+      "productName": "Netac Basic 4GB DDR4 2666MHZ Desktop RAM",
+      "category": "RAM",
+      "price": "1,599৳",
+      "status": "In Stock",
+      "rating": "4.6"
+      
+    },
+    {
+      "id": 12,
+      "image": "https://www.startech.com.bd/image/cache/catalog/RAM/TwinMOS/TwinMOS%204GB%20DDR4%202400-228x228.jpg",
+      "productName": "TwinMOS 4GB DDR4 2400MHz Desktop RAM",
+      "category": "RAM",
+      "price": "1,500৳",
+      "status": "In Stock",
+      "rating": "4.9"
+      
+    },
+    {
+      "id": 13,
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/gigabyte/p450b/p450b-228x228.jpg",
+      "productName": "Gigabyte P450B 450W 80 Plus Bronze Certified Power Supply",
+      "category": "PowerSupply",
+      "price": "3,600৳",
+      "status": "In Stock",
+      "rating": "4.4"
+      
+    },
+    {
+      "id": 14,
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/antec/csk-450/csk-450-bronze-01-228x228.jpg",
+      "productName": "Antec CUPRUM STRIKE CSK 450W 80 Plus Bronze Power Supply",
+      "category": "PowerSupply",
+      "price": "4,300৳",
+      "status": "In Stock",
+      "rating": "4.6"
+      
+    },
+    {
+      "id": 15,
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/deepcool/pk550d/pk550d-01-228x228.webp",
+      "productName": "DeepCool PK500D 500 Watt 80 PLUS Bronze Power Supply",
+      "category": "PowerSupply",
+      "price": "5,900৳",
+      "status": "In Stock",
+      "rating": "4.8"
+      
+    },
+    {
+      "id": 16,
+      "image": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/ls-ne-sa500/ls-ne-sa500-01-228x228.webp",
+      "productName": "Netac SA500 120GB 2.5-inch SATAIII SSD",
+      "category": "StorageDevice",
+      "price": "1,375৳",
+      "status": "In Stock",
+      "rating": "4.6"
+      
+    },
+    {
+      "id": 17,
+      "image": "https://www.startech.com.bd/image/cache/catalog/ssd/dahua/c800/c800-01-228x228.jpg",
+      "productName": "'Dahua C800 120GB 2.5' SATA SSD",
+      "category": "StorageDevice",
+      "price": "1,299৳",
+      "status": "In Stock",
+      "rating": "4.8"
+      
+    },
+    {
+      "id": 18,
+      "image": "https://www.startech.com.bd/image/cache/catalog/ssd/biwintech/sx500/sx500-01-228x228.webp",
+      "productName": "Biwintech SX500 128GB 2.5 Inch SATA III SSD",
+      "category": "StorageDevice",
+      "price": "1,490৳",
+      "status": "In Stock",
+      "rating": "4.5"
+      
+    },
+    {
+      "id": 19,
+      "image": "https://www.startech.com.bd/image/cache/catalog/mouse/logitech/m240/m240-02-228x228.webp",
+      "productName": "Logitech M240 Silent Bluetooth mouse",
+      "category": "Mouse",
+      "price": "1,800৳",
+      "status": "In Stock",
+      "rating": "4.8"
+      
+    },
+    {
+      "id": 20,
+      "image": "https://www.startech.com.bd/image/cache/catalog/mouse/logitech/m240/m240-w-01-228x228.webp",
+      "productName": "Logitech M240 Silent Bluetooth Mouse White",
+      "category": "Mouse",
+      "price": "1,800৳",
+      "status": "In Stock",
+      "rating": "4.8"
+      
+    },
+    {
+      "id": 21,
+      "image": "https://www.startech.com.bd/image/cache/catalog/mouse/havit/ms851/ms851-1-228x228.jpg",
+      "productName": " Havit MS851 USB Mouse",
+      "category": "Mouse",
+      "price": "230৳",
+      "status": "In Stock",
+      "rating": "4.4"
+      
+    }
+   
+  ]
+}
