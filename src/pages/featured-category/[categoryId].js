@@ -81,7 +81,7 @@ export const getServerSideProps = async (context) => {
   const { params } = context;
   const id = params.categoryId;
 
-  const res = await fetch(`http://localhost:4000/featured-category/${id}`);
+  const res = await fetch(`https://builder-backend-nu.vercel.app/featured-category/${id}`);
   const data = await res.json();
 
 

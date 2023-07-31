@@ -25,7 +25,7 @@ const HomePage = ({ featuredProductList }) => {
 
 export default HomePage;
 export const getServerSideProps = async () => {
-  const res = await fetch("http://localhost:4000/featured-product");
+  const res = await fetch("https://builder-backend-nu.vercel.app/featured-product");
   const data = await res.json();
   return {
     props: {

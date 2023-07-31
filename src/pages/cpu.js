@@ -140,7 +140,7 @@ export default function CpuPage({ featuredCategoryList }) {
 }
 
 export const getServerSideProps = async () => {
-  const res = await fetch("http://localhost:4000/featured-category");
+  const res = await fetch("https://builder-backend-nu.vercel.app/featured-category");
 
   const data = await res.json();
   return {

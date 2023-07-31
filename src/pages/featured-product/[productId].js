@@ -101,7 +101,7 @@ export default function ProductDetails({featuredProduct}) {
 export const getServerSideProps = async (context) => {
   const { params } = context;
   const id = params.productId;
-  const res = await fetch(`http://localhost:4000/featured-product/${id}`);
+  const res = await fetch(`https://builder-backend-nu.vercel.app/featured-product/${id}`);
   const data = await res.json();
 
 
